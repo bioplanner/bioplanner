@@ -1,0 +1,12 @@
+{
+  "id": "1779",
+  "protocols.io url": "https://www.protocols.io/view/1779",
+  "title": "CTAB mix",
+  "original description": "This solution is used in the coral genomic DNA extraction protocol.  The following recipe is for 50 mL of CTAB mix. Store at -20\u00b0C.",
+  "steps": "\nNone\n1. Dissolve 0.75 g CTAB in ~ 20 mL MilliQ water \n1amount \nreagents\n2. Add 12.5 mL of 4 M NaCl  \nreagents\n3. Add 75 \u00b5L of E. coli tRNA at 20 mg/mL  \nNOTES E. coli tRNA is used as a carrier nucleic acid to boost total nucleic acid concentrations and increase the extraction yield\n4. Make up to a final volume of 50 mL with MilliQ water  \nreagents\n",
+  "total protocol length in tokens": 151,
+  "original description length in tokens": 32,
+  "number of steps": 4,
+  "edited_pseudocode": "def prepare_solution(reagent, amount, solvent, total_volume):\n    pass\n\ndef add_to_solution(reagent, amount):\n    pass\n\n# Protocol steps\nprepare_solution(reagent=\"CTAB\", amount=\"0.75 g\", solvent=\"MilliQ water\", total_volume=\"~20 mL\")\nadd_to_solution(reagent=\"4 M NaCl\", amount=\"12.5 mL\")\nadd_to_solution(reagent=\"E. coli tRNA at 20 mg/mL\", amount=\"75 \u00b5L\")\nmake_to_final_volume(reagent=None, amount=None, solvent=\"MilliQ water\", total_volume=\"50 mL\")",
+  "generated_pseudocode": "def prepare_solution(reagent, amount, solvent, total_volume):\n    pass\n\ndef add_to_solution(reagent, amount):\n    pass\n\n# Protocol steps\nprepare_solution(reagent=\"CTAB\", amount=\"0.75 g\", solvent=\"MilliQ water\", total_volume=\"~20 mL\")\nadd_to_solution(reagent=\"4 M NaCl\", amount=\"12.5 mL\")\nadd_to_solution(reagent=\"E. coli tRNA at 20 mg/mL\", amount=\"75 \u00b5L\")\nprepare_solution(reagent=None, amount=None, solvent=\"MilliQ water\", total_volume=\"50 mL\")"
+}

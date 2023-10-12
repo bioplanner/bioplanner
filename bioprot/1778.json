@@ -1,0 +1,14 @@
+{
+  "id": "1778",
+  "protocols.io url": "https://www.protocols.io/view/1778",
+  "title": "1% SDS in DNA Buffer",
+  "original description": "This buffer is used to stabilize samples for archiving and subsequentgenomic DNA extraction.\u00a0  SDS is dissolved to a concentration of 1% (w/v) in DNAB (DNA buffer: 0.4 M NaCl +\u00a00.05 M\u00a0EDTA in MilliQ water). The buffer may need to be warmed for SDS to completely dissolve. Tissue samples are\u00a0added to small aliquots of 1% SDS in DNAB and heated to 65\u00b0C for 60-90 minutes. They are then stable at room temperature and ready for extraction of genomic DNA.",
+  "steps": "\nNone\n1. Prepare stock solution of 4 M Sodium chloride in MilliQ water  \nreagents\n2. Prepare stock solution of 0.5 M EDTA\u00a0in MilliQ water  \nreagents\n3. Mix 50 mL 4 M NaCl and 50 mL 0.5 M EDTA\n4. Make up to a final volume of 500 mL with MilliQ water  \nreagents\n5. Dissolve SDS in DNA Buffer to a final concentration of 1% (w/v).\ne.g., 5 g SDS in 500 mL of DNA Buffer.  \nreagents\n",
+  "total protocol length in tokens": 256,
+  "original description length in tokens": 121,
+  "number of steps": 5,
+  "ai_generated_description": "This protocol outlines the preparation of 1% SDS (Sodium Dodecyl Sulfate) in DNA Buffer, a solution used to stabilize tissue samples for long-term storage and subsequent genomic DNA extraction. The samples treated with this buffer can be stored at room temperature before the extraction of genomic DNA.",
+  "ai_generated_description length in tokens": 61,
+  "generated_pseudocode": "def prepare_stock_solution(solute_name, solute_concentration, solvent_name):\n    pass\n\ndef mix_solutions(solution1_volume, solution2_volume):\n    pass\n\ndef adjust_final_volume(mixture_volume, final_volume, solvent):\n    pass\n\ndef dissolve_solute(solute, solute_amount, solution, concentration):\n    pass\n\n# Protocol Steps\nprepare_stock_solution(solute_name=\"Sodium chloride\", solute_concentration=\"4 M\", solvent_name=\"MilliQ water\")\nprepare_stock_solution(solute_name=\"EDTA\", solute_concentration=\"0.5 M\", solvent_name=\"MilliQ water\")\nmixture_volume = mix_solutions(solution1_volume=\"50 mL 4 M NaCl\", solution2_volume=\"50 mL 0.5 M EDTA\")\nadjust_final_volume(mixture_volume=mixture_volume, final_volume=\"500 mL\", solvent=\"MilliQ water\")\ndissolve_solute(solute=\"SDS\", solute_amount=\"5 g\", solution=\"DNA Buffer\", concentration=\"1% (w/v)\")\n\n# end of protocol",
+  "edited_pseudocode": null
+}

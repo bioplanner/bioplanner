@@ -1,0 +1,14 @@
+{
+  "id": "10904",
+  "protocols.io url": "https://www.protocols.io/view/10904",
+  "title": "Coomassie Blue Stain",
+  "original description": "To visual total protein in a given sample",
+  "steps": "\n\n1. Repeat steps 1-8 of the Western Blot protocol.\n2. Once gels have finished running, cover gel with Coomassie Brilliant Blue, cover with lid, and incubate for 30 min\n3. Rinse with water twice\n4. Add enough destain solution to cover the gel and leave overnight, gently shaking at room temperature\n",
+  "total protocol length in tokens": 92,
+  "original description length in tokens": 8,
+  "number of steps": 4,
+  "ai_generated_description": "The objective of this Coomassie Blue Stain protocol is to visually detect and analyze the total protein content in a given sample by staining proteins with Coomassie Brilliant Blue dye. This method allows researchers to assess the variety and quantity of proteins present, which can be useful in various molecular biology studies.",
+  "ai_generated_description length in tokens": 62,
+  "generated_pseudocode": "def western_blot_protocol(steps_to_run):\n    pass\n\ndef cover_gel_with_coomassie(covers_lid, incubation_time, stain):\n    pass\n\ndef rinse_gel(rinse_with, times):\n    pass\n\ndef destain_gel(destain_solution, incubation_time, shaking_conditions):\n    pass\n\n# Protocol steps\nwestern_blot_protocol(steps_to_run=8)\ncover_gel_with_coomassie(covers_lid=True, incubation_time=\"30 min\", stain=\"Coomassie Brilliant Blue\")\nrinse_gel(rinse_with=\"water\", times=2)\ndestain_gel(destain_solution=\"enough to cover gel\", incubation_time=\"overnight\", shaking_conditions=\"gently shaking at room temperature\")\n# end of protocol\n",
+  "edited_pseudocode": null
+}

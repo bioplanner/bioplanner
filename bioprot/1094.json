@@ -1,0 +1,14 @@
+{
+  "id": "1094",
+  "protocols.io url": "https://www.protocols.io/view/1094",
+  "title": "Glycerol Stock",
+  "original description": "Method to create a long-term stable store of organisms. Especially useful if you want to store already transformed versions of organisms to aid in future experiments.",
+  "steps": "\nNone\n1. Add 600 uL of your inoculated liquid culture to a 2 mL screw top tube. \n600amount\n2. Add 200 uL autoclaved water to the screw top tube. \n200amount\n3. Add 200 uL glycerol to the screw top tube. \n200amount \nNOTES This creates a 20% Glycerol Stock. \nreagents\n4. Screw the top on the tube and mix by inversion several times so no layers are present in the mixture.\n5. Place mixed screw top tube into a -80 C Freezer.\n",
+  "total protocol length in tokens": 158,
+  "original description length in tokens": 29,
+  "number of steps": 5,
+  "ai_generated_description": "The objective of this scientific protocol is to create a long-term stable store of organisms, particularly useful for storing transformed versions of organisms to aid in future experiments. The method involves creating a 20% glycerol stock and storing it at -80 C, ensuring the preservation and viability of the organisms.",
+  "ai_generated_description length in tokens": 60,
+  "generated_pseudocode": "def create_screw_top_tube():\n    pass\n\ndef add_to_tube(tube, volume, substance):\n    pass\n\ndef mix_by_inversion(tube):\n    pass\n\ndef store_in_freezer(tube, temperature):\n    pass\n\n# Protocol steps\nscrew_top_tube = create_screw_top_tube()\n\nadd_to_tube(tube=screw_top_tube, volume=600, substance=\"inoculated liquid culture\")\nadd_to_tube(tube=screw_top_tube, volume=200, substance=\"autoclaved water\")\nadd_to_tube(tube=screw_top_tube, volume=200, substance=\"glycerol\")\n\nmix_by_inversion(tube=screw_top_tube)\n\nstore_in_freezer(tube=screw_top_tube, temperature=-80)\n\n# end of protocol",
+  "edited_pseudocode": null
+}

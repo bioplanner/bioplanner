@@ -1,0 +1,14 @@
+{
+  "id": "10908",
+  "protocols.io url": "https://www.protocols.io/view/10908",
+  "title": "0.8% Agarose Gel",
+  "original description": "Purpose of this protocol is to create an agarose gel for visualizing and extracting DNA.",
+  "steps": "\n\n1. Add 100 mL of 1X TAE Buffer to 0.8 g of UltraPure Agarose and a few grains ofguanosine.\n2. Microwave for 1 minute in conventional microwave, swirling at 30 seconds.\n3. Allow to cool until it is not painful to touch and add 6 uL of Ethidium Bromide.\n4. Pour into gel dock with comb and allow to solidify.\n",
+  "total protocol length in tokens": 117,
+  "original description length in tokens": 18,
+  "number of steps": 4,
+  "ai_generated_description": "The objective of this molecular biology protocol is to create an agarose gel that aids in visualizing and extracting DNA. The agarose gel is prepared by dissolving UltraPure Agarose in TAE Buffer, microwaving, cooling, adding Ethidium Bromide, and pouring it into a gel dock with a comb to solidify.",
+  "ai_generated_description length in tokens": 69,
+  "generated_pseudocode": "def prepare_agarose_solution(buffer_vol, agarose_mass, guanosine_mass):\n    pass\n\ndef microwave_solution(solution, time, interval):\n    pass\n\ndef cool_solution(solution, touch_threshold):\n    pass\n\ndef add_ethidium_bromide(solution, ethidium_bromide_vol):\n    pass\n\ndef pour_gel(solution, gel_dock, comb):\n    pass\n\ndef solidify_gel(gel):\n    pass\n\n# Protocol steps\nagarose_solution = prepare_agarose_solution(buffer_vol=\"100 mL\", agarose_mass=\"0.8 g\", guanosine_mass=\"a few grains\")\nmicrowave_solution(solution=agarose_solution, time=\"1 minute\", interval=\"30 seconds\")\ncool_solution(solution=agarose_solution, touch_threshold=\"not painful to touch\")\nadd_ethidium_bromide(solution=agarose_solution, ethidium_bromide_vol=\"6 uL\")\npour_gel(solution=agarose_solution, gel_dock=\"gel dock\", comb=\"comb\")\nsolidify_gel(gel=\"poured gel\")\n# end of protocol\n\n# Double-checked the protocol, the pseudocode accurately reflects the given protocol steps.",
+  "edited_pseudocode": null
+}

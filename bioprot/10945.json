@@ -1,0 +1,14 @@
+{
+  "id": "10945",
+  "protocols.io url": "https://www.protocols.io/view/10945",
+  "title": "Isolation of mouse thoracic aorta for Western blot",
+  "original description": "This protocol describes the preparation of aorta samples from mouse for Western blot analysis.",
+  "steps": "\nSacrifice mouse\n1. Sacrifice the mouse by an overdose intraperitoneal injection of sodium pentobarbital.\n2. Fix the mouse on the tray, spray with 70% ethanol.\n\nAorta isolation\n3. Open the mouse, dissect\u00a0the thoracic aorta. Take the lower half portion, rinse in phosphate-buffered saline (PBS).\n4. Remove the adventitia (use microscope to guide), rinse in PBS.\n5. Blot to dry with a paper towel, quickly transfer to liquid N2 to freeze.\n\nStorage\n6. Store\u00a0at -80\u00baC until used.\n-80temperature\n",
+  "total protocol length in tokens": 157,
+  "original description length in tokens": 16,
+  "number of steps": 6,
+  "ai_generated_description": "The objective of this molecular biology protocol is to isolate the mouse thoracic aorta and prepare it for Western blot analysis. The protocol involves sacrificing the mouse, isolating the aorta, removing the adventitia, and storing the sample at -80\u00baC until further use.",
+  "ai_generated_description length in tokens": 55,
+  "generated_pseudocode": "I apologize for any confusion earlier. After reviewing the protocol, I found that I did not leave out any steps or content. However, I can provide a bit more details in the parameter names and values to be more descriptive. Here is the revised pseudocode:\n\ndef sacrifice_mouse(anesthetic):\n    pass\n\ndef fix_mouse(tray, ethanol_concentration):\n    pass\n\ndef dissect_aorta(mouse, section):\n    pass\n\ndef remove_adventitia(aorta, microscope):\n    pass\n\ndef rinse_in_pbs(sample):\n    pass\n\ndef blot_dry(sample, material):\n    pass\n\ndef freeze_sample(sample, freezing_agent):\n    pass\n\ndef store_sample(sample, temperature):\n    pass\n\n# Protocol steps\nsacrifice_mouse(anesthetic=\"intraperitoneal injection of sodium pentobarbital\")\nfix_mouse(tray=\"dissection tray\", ethanol_concentration=70)\ndissect_aorta(mouse=\"sacrificed mouse\", section=\"lower half of thoracic aorta\")\nrinse_in_pbs(sample=\"dissected aorta\")\nremove_adventitia(aorta=\"rinsed aorta\", microscope=\"dissection microscope\")\nrinse_in_pbs(sample=\"aorta without adventitia\")\nblot_dry(sample=\"rinsed clean aorta\", material=\"paper towel\")\nfreeze_sample(sample=\"dried aorta\", freezing_agent=\"liquid N2\")\nstore_sample(sample=\"frozen aorta\", temperature=-80)\n# end of protocol",
+  "edited_pseudocode": null
+}

@@ -1,0 +1,14 @@
+{
+  "id": "10909",
+  "protocols.io url": "https://www.protocols.io/view/10909",
+  "title": "Heat Shock Transformation",
+  "original description": "Purpose of this protocol is to introduce plasmid DNA into E. coli cells",
+  "steps": "\n\n1. Thaw desired E. coli strain on ice for ~10 minutes.\n2. Add 5 uL of ligated DNA or ~10 ng of miniprepped plasmid DNA to 50 uL of E. colicells. Incubate on ice for 20-30 minutes.\n3. Incubate bacteria for 45 seconds at 42\u00b0C.\n4. After heat shock, let rest on ice for 10 minutes.\n5. Add 250 uL LB Broth to E. coli solution.\n6. Incubate, shaking, at 37\u00b0C for 1 hour.\n7. After 1 hour, plate bacteria onto LB Agar+antibiotic plates, spreading solution evenly.\n8. Incubate for 18-24 hours at 37\u00b0C.\n",
+  "total protocol length in tokens": 187,
+  "original description length in tokens": 16,
+  "number of steps": 8,
+  "ai_generated_description": "The objective of this heat shock transformation protocol is to introduce plasmid DNA into E. coli cells. This method employs a rapid heat treatment, followed by incubation and plating, allowing for the uptake of foreign DNA by the bacteria and the subsequent expression of desired genetic traits.",
+  "ai_generated_description length in tokens": 56,
+  "generated_pseudocode": "def thaw_cells_on_ice(cells, time):\n    pass\n\ndef add_DNA_to_cells(dna_concentration, cell_volume):\n    pass\n\ndef heat_shock(cells, temperature, time):\n    pass\n\ndef rest_on_ice(time):\n    pass\n\ndef add_LB_broth(solution, broth_volume):\n    pass\n\ndef incubate_shaking(temperature, time):\n    pass\n\ndef plate_bacteria(agar_type, solution):\n    pass\n\ndef incubate_plates(temperature, time):\n    pass\n\n# Protocol steps\nthaw_cells_on_ice(cells=\"E. coli\", time=\"10 minutes\")\nadd_DNA_to_cells(dna_concentration=\"5 uL of ligated DNA or ~10 ng of miniprepped plasmid DNA\", cell_volume=\"50 uL E. coli cells\")\nrest_on_ice(time=\"20-30 minutes\")\nheat_shock(cells=\"E. coli with DNA\", temperature=42, time=\"45 seconds\")\nrest_on_ice(time=\"10 minutes\")\nadd_LB_broth(solution=\"E. coli with DNA solution\", broth_volume=\"250 uL\")\nincubate_shaking(temperature=37, time=\"1 hour\")\nplate_bacteria(agar_type=\"LB Agar+antibiotic\", solution=\"E. coli with DNA solution\")\nincubate_plates(temperature=37, time=\"18-24 hours\")\n# end of protocol",
+  "edited_pseudocode": null
+}

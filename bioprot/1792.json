@@ -1,0 +1,14 @@
+{
+  "id": "1792",
+  "protocols.io url": "https://www.protocols.io/view/1792",
+  "title": "Separate different viral genome sizes",
+  "original description": "For use in \"Fingerprinting aquatic virus communities using PFGE\"",
+  "steps": "\nNone\n1. (1) 1\u20135 s switch time with 20 h run time for separation of small genome sizes (0\u2013130 kb). \n72000s\n2. (2) 8\u201330 s switch time with 20 h run time for separation of medium genome sizes (130\u2013300 kb). \n72000s\n3. (3) 20\u201340 s switch time with 22 h run time for separation of large genome sizes (300\u2013600 kb). \n79200s\n4. Stain the gel for 30 min or overnight in fluorescent stain (according to manufacturer\u2019s instructions) and view on a UV transilluminator. \n1800s\n",
+  "total protocol length in tokens": 165,
+  "original description length in tokens": 14,
+  "number of steps": 4,
+  "ai_generated_description": "This molecular biology protocol outlines the steps to separate different sizes of viral genomes, which can be integral in the process of fingerprinting aquatic virus communities using Pulse Field Gel Electrophoresis (PFGE). The protocol gives instructions for separating small, medium, and large genome sizes followed by staining for visual identification.",
+  "ai_generated_description length in tokens": 61,
+  "generated_pseudocode": "def separate_genomes(setup_parameters):\n    pass\n\ndef stain_gel(stain_parameters):\n    pass\n\ndef view_gel(view_parameters):\n    pass\n\n# Protocol steps\nseparate_genomes(setup_parameters={\"switch_time_range\": \"1\u20135 s\", \"run_time\": \"20 h\", \"genome_size_range\": \"0\u2013130 kb\"})\nseparate_genomes(setup_parameters={\"switch_time_range\": \"8\u201330 s\", \"run_time\": \"20 h\", \"genome_size_range\": \"130\u2013300 kb\"})\nseparate_genomes(setup_parameters={\"switch_time_range\": \"20\u201340 s\", \"run_time\": \"22 h\", \"genome_size_range\": \"300\u2013600 kb\"})\nstain_gel(stain_parameters={\"stain_time\": \"30 min or overnight\", \"method\": \"fluorescent stain\"})\nview_gel(view_parameters={\"device\": \"UV transilluminator\"})\n# end of protocol",
+  "edited_pseudocode": null
+}

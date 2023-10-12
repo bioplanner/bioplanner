@@ -1,0 +1,14 @@
+{
+  "id": "1780",
+  "protocols.io url": "https://www.protocols.io/view/1780",
+  "title": "Sodium acetate solution",
+  "original description": "Sodium acetate solution is used in DNA extraction. This recipe\u00a0makes 50 mL of a 3 M\u00a0stock solution at ph 5.2 \u00a0-- dilute tenfold in water to a working concentration of 0.3 M for use in the DNA extraction protocol.",
+  "steps": "\nNone\n1. Dissolve 12.3 g of Sodium acetate (anhydrous) in ~ 40 mL MilliQ water. \n12amount \nreagents\n2. Adjust pH to 5.2 with glacial acetic acid\n3. Make up to 50 mL with MilliQ water  \nreagents\n4. Dilute an aliquot of the 3 M stock solution to 0.3 M for use in the DNA extraction protocol.\n",
+  "total protocol length in tokens": 164,
+  "original description length in tokens": 59,
+  "number of steps": 4,
+  "ai_generated_description": "This protocol outlines the process of preparing a 3 M stock solution of sodium acetate at a pH of 5.2, primarily used in DNA extraction procedures. Furthermore, it explains how to dilute this solution to a working concentration of 0.3 M, which can then be used directly in the DNA extraction protocol.",
+  "ai_generated_description length in tokens": 66,
+  "generated_pseudocode": "def dissolve_sodium_acetate(sodium_acetate_weight, initial_water_volume):\n    pass\n\ndef adjust_pH(target_pH, acid_type):\n    pass\n\ndef add_water(target_volume):\n    pass\n\ndef dilute_sodium_acetate_solution(stock_solution_volume, source_concentration, target_concentration):\n    pass\n\n# Protocol steps\ndissolve_sodium_acetate(sodium_acetate_weight=\"12.3 g\", initial_water_volume=\"~40 mL MilliQ water\")\nadjust_pH(target_pH=5.2, acid_type=\"glacial acetic acid\")\nadd_water(target_volume=\"50 mL\")\ndilute_sodium_acetate_solution(stock_solution_volume=\"aliquot\", source_concentration=\"3 M\", target_concentration=\"0.3 M\")\n# end of protocol\n",
+  "edited_pseudocode": null
+}

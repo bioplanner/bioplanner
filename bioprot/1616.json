@@ -1,0 +1,14 @@
+{
+  "id": "1616",
+  "protocols.io url": "https://www.protocols.io/view/1616",
+  "title": "TAP Agar Plates",
+  "original description": "Tris-Acetate-Phosphate medium (TAP) is among the most common for Chlamydomonas reinhardtii. This protocol uses premade TAP from ThermoFisher. Alternative and significantly cheaper TAP medium can be found at PhytoTechnology. Agar is from Acros.",
+  "steps": "\nNone\n1. Pour 500mL of premade TAP into 1L erlenmeyer \n500amount\n2. Agar is added to TAP at 15g per liter. For 500mL, add 7.5g of agar \n8amount\n3. Stir for 10 minutes \n600s\n4. Cover the lid with aluminum foil, autoclave tape, and autoclave in a liquid cycle for 90 minutes \n5400s\n",
+  "total protocol length in tokens": 172,
+  "original description length in tokens": 64,
+  "number of steps": 4,
+  "ai_generated_description": "This protocol outlines the procedure for creating TAP (Tris-Acetate-Phosphate) agar plates, commonly used for cultivating Chlamydomonas reinhardtii. The process involves combining and sterilizing predetermined amounts of a premade TAP solution and agar in an erlenmeyer flask.",
+  "ai_generated_description length in tokens": 62,
+  "generated_pseudocode": "def add_medium_to_container(medium, volume, container):\n    pass\n\ndef add_agar_to_medium(medium_volume, agar_concentration):\n    pass\n\ndef stir_solution(time):\n    pass\n\ndef cover_container_with_foil(container, material):\n    pass\n\ndef apply_autoclave_tape(container, tape):\n    pass\n\ndef autoclave_container(cycle_type, time):\n    pass\n\n# Applying protocol to functions\nadd_medium_to_container(medium=\"TAP\", volume=\"500mL\", container=\"1L erlenmeyer\")\nadd_agar_to_medium(medium_volume=\"500mL\", agar_concentration=\"7.5g\")\nstir_solution(time=600)\ncover_container_with_foil(container=\"1L erlenmeyer\", material=\"aluminum foil\")\napply_autoclave_tape(container=\"1L erlenmeyer\", tape=\"autoclave tape\")\nautoclave_container(cycle_type=\"liquid cycle\", time=5400)\n# end of protocol",
+  "edited_pseudocode": null
+}

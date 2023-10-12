@@ -1,0 +1,14 @@
+{
+  "id": "1073",
+  "protocols.io url": "https://www.protocols.io/view/1073",
+  "title": "Adsorbing Viruses on TEM Grids",
+  "original description": "Purpose: This protocol describes how to adsorb viruses onto TEM (transmission electron microscopy) grids. The sample is allowed to sit on a hydrophilic grid and viruses adsorb onto the surface of the grid. This technique is generally used for viral lysates with high concentrations of viruses. For natural samples, use the protocol \u201cQuantitatively Depositing Viruses onto TEM Grids using an Airfuge\u201d.  Note: If purification of the viruses is necessary, refer to Ackermann and Heldal (2010) for various options.",
+  "steps": "\nNone\n1. On the same day as grid prep, use glow discharge to render grids hydrophylic.\n2. Holding the grid in the tweezers, place 5 \u00b5l of viral lysate onto the shiny side of the grid (Figure 1).\nimageblocka\n3. Let the sample sit for ~3 minutes to allow the viruses to adsorb to the grid. \n180s\n4. Stain the viruses using the protocol \u201clinkPositive and Negative Staining of Viruses on TEM Grids\u201d.\n",
+  "total protocol length in tokens": 227,
+  "original description length in tokens": 109,
+  "number of steps": 4,
+  "ai_generated_description": "The objective of this molecular biology protocol is to adsorb viruses onto TEM (transmission electron microscopy) grids, allowing for easier observation and analysis of viral lysates with high concentrations of viruses. By letting the sample sit on a hydrophilic grid, the viruses adsorb onto the surface of the grid, facilitating further staining and examination procedures.",
+  "ai_generated_description length in tokens": 68,
+  "generated_pseudocode": "def prepare_grids_for_adsorption(grid_type):\n    pass\n\ndef glow_discharge_grids(grid):\n    pass\n\ndef add_viral_lysate_to_grid(grid, lysate_vol, side):\n    pass\n\ndef adsorb_viruses_to_grid(grid, time):\n    pass\n\ndef stain_viruses_on_tem_grids(grid, protocol):\n    pass\n\ndef purify_viruses(reference):\n    pass\n\n\n# Protocol steps\nprepare_grids_for_adsorption(grid_type=\"TEM grid\")\nglow_discharge_grids(grid=\"TEM grid\")\nadd_viral_lysate_to_grid(grid=\"TEM grid\", lysate_vol=\"5 \u00b5l\", side=\"shiny side\")\nadsorb_viruses_to_grid(grid=\"TEM grid\", time=\"3 minutes\")\nstain_viruses_on_tem_grids(grid=\"TEM grid\", protocol=\"Positive and Negative Staining of Viruses on TEM Grids\")\n\n# Note: If purification of the viruses is necessary\n# purify_viruses(reference=\"Ackermann and Heldal (2010)\")\n\n# end of protocol",
+  "edited_pseudocode": null
+}

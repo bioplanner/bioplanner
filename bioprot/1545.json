@@ -1,0 +1,14 @@
+{
+  "id": "1545",
+  "protocols.io url": "https://www.protocols.io/view/1545",
+  "title": "protein extraction from cell pallets",
+  "original description": "Use LDS buffer to extract protein from cell palllets",
+  "steps": "\nNone\n1. Make 1X LDS buffer. In 40mL of 1X buffer, add Tris HCl 0.666g, Tris base 0.682g, LDS 0.8g, EDTA 0.006g, Glycerol 4g.\n2. make 1M DTT stock solution in LC/MS water.\n3. Add 200~500uL of 10mM DTT in 1X LDS buffer to the cell pallet tube.\n4. Heat sample up at 95\u00baC for 20 minutes.\n5. Cool down the sample to room temrature. Meanwhile, make a 0.5M iodoacetamide stock solution.\n6. Add IAM to 50mM/60mM in the sample, incubate in dark for 30-60minutes.\n7. Add DTT to 50mM/60mM. Sampe is ready to continue with FASP.\n",
+  "total protocol length in tokens": 222,
+  "original description length in tokens": 10,
+  "number of steps": 7,
+  "ai_generated_description": "This protocol is designed to extract proteins from cell pellets using LDS buffer. The process involves preparing the buffer, applying it to the cell pellets, heating, cooling, and treating with iodoacetamide before the sample is ready for further analysis using FASP.",
+  "ai_generated_description length in tokens": 51,
+  "generated_pseudocode": "def make_buffer(buffer_type, volume, ingredients):\n    pass\n\ndef make_stock_solution(solution_type, solvent, volume=None):\n    pass\n\ndef add_solution_to_sample(sample, solution, volume):\n    pass\n\ndef control_sample_temperature(sample, temperature, time):\n    pass\n\ndef prepare_iodoacetamide(solution_type, stock_vol):\n    pass\n\ndef handle_sample_in_dark(sample, compound, concentration, incubation_time):\n    pass\n\ndef finalize_sample_preparation(sample, compound, concentration):\n    pass\n\ndef proceed_with_fasp(sample):\n    pass\n\n# Protocol steps\nmake_buffer(buffer_type=\"1X LDS\", volume=\"40mL\", ingredients={\"Tris HCl\": \"0.666g\", \"Tris base\": \"0.682g\", \"LDS\": \"0.8g\", \"EDTA\": \"0.006g\", \"Glycerol\": \"4g\"})\nmake_stock_solution(solution_type=\"1M DTT\", solvent=\"LC/MS water\")\nadd_solution_to_sample(sample=\"cell pallet tube\", solution=\"10mM DTT in 1X LDS buffer\", volume=\"200~500uL\")\ncontrol_sample_temperature(sample=\"cell pallet tube\", temperature=\"95 \u00baC\", time=\"20 minutes\")\ncontrol_sample_temperature(sample=\"cell pallet tube\", temperature=\"room temperature\")\nprepare_iodoacetamide(solution_type=\"0.5M iodoacetamide\", stock_solvent=\"LC/MS water\")\nhandle_sample_in_dark(sample=\"cell pallet tube\", compound=\"IAM\", concentration=\"50mM/60mM\", incubation_time=\"30-60 minutes\")\nfinalize_sample_preparation(sample=\"cell pallet tube\", compound=\"DTT\", concentration=\"50mM/60mM\")\nproceed_with_fasp(sample=\"cell pallet tube\")\n# end of protocol",
+  "edited_pseudocode": null
+}

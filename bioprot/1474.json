@@ -1,0 +1,14 @@
+{
+  "id": "1474",
+  "protocols.io url": "https://www.protocols.io/view/1474",
+  "title": "Cellulophaga growth reading",
+  "original description": "For One-step growth curves for Cellulophaga phages protocol and Transcriptomics During One-Step Growth Curves for Cellulophaga Phages protocol.",
+  "steps": "\nNone\n1. Pipet 200 \u03bcl of MLB media into wells A1 and A2 of a white microtiter plate  \nNOTES This is your \u2018blank\u2019.\n2. Pipet 200 \u03bcl of sample (the new culture you just inoculated) into wells B1 and B2 of the same plate  \nNOTES Ensure that there are no bubbles in the wells, as they will affect your readings. Pipet away any bubbles.\n3. Read the plate on the plate reader\n",
+  "total protocol length in tokens": 142,
+  "original description length in tokens": 32,
+  "number of steps": 3,
+  "ai_generated_description": "This protocol outlines steps to track the growth of Cellulophaga phages through a one-step growth curve method, utilizing a sample placed in a white microtiter plate. Measurement is conducted using a plate reader, ensuring an accurate read of growth for further analysis in transcriptomics experiments.",
+  "ai_generated_description length in tokens": 57,
+  "generated_pseudocode": "def pipet_into_wells(volume, media, well_destination):\n    pass\n\ndef monitor_bubbles(well_location):\n    pass\n\ndef read_plate_on_reader(plate):\n    pass\n\n# Protocol steps\npipet_into_wells(volume=\"200 \u03bcl\", media=\"MLB\", well_destination=[\"A1\", \"A2\"])  # Step 1: adding MLB media into wells A1 and A2\npipet_into_wells(volume=\"200 \u03bcl\", media=\"new culture\", well_destination=[\"B1\", \"B2\"]) # Step 2: adding sample into wells B1 and B2\nmonitor_bubbles(well_location=[\"B1\", \"B2\"]) # NOTES: ensure no bubbles are present in the wells\nread_plate_on_reader(plate=\"microtiter plate\")  # Step 3: read plate on the plate reader\n# end of protocol",
+  "edited_pseudocode": null
+}
