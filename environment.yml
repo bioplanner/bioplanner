@@ -1,0 +1,13 @@
+name: bioplanner
+channels:
+  - conda-forge
+  - defaults
+
+variables:
+  PYTHONPATH: src
+  MODE: local
+
+dependencies:
+  - python=3.11.*
+  - pip
+  - poetry=1.4.*
