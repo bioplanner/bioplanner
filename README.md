@@ -1,4 +1,5 @@
 # Bioplanner 
+Repo for BioPlanner: Automatic Evaluation of LLMs on Protocol Planning in Biology https://arxiv.org/abs/2310.10632
 
 # Prerequisites 
 - Conda (https://conda.io/projects/conda/en/latest/user-guide/install/macos.html#install-macos-silent)
